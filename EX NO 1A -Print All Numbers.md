@@ -25,8 +25,8 @@ End loop and stop the program.
 
 ## Program:
 ```
-Developed by : ANUBHARATHI SS
-Register No : 212223040017
+Developed by : ISWARYA P
+Register No : 212223230082
 
 ```
 ```
