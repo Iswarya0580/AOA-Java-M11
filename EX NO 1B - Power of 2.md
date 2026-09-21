@@ -26,8 +26,8 @@ If the result is 0, then n is a power of two; otherwise, it is not.
 
 ## Program:
 ```
-Developed by : ANUBHARATHI SS
-Register No : 212223040017
+Developed by : ISWARYA P
+Register No : 212223230082
 
 ```
 ```
